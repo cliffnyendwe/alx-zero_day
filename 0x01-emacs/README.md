@@ -1,0 +1,1 @@
+### In this project, the aim was to learn how to use emacs editor.
